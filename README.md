@@ -15,8 +15,8 @@ Stay informed with the latest headlines, curated news sources, and an elegant, r
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript (or React if you used it)  
-- **API:** [NewsAPI](https://newsapi.org/) (or your chosen API)  
+- **Frontend:** HTML, CSS, JavaScript 
+- **API:** [NewsAPI](https://newsapi.org/) 
 - **Version Control:** Git & GitHub  
 
 ---
